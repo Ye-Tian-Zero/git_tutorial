@@ -1,4 +1,6 @@
 #git tutorial
 
 feature-A
-other
+fix-b
+
+another fix
